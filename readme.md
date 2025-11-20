@@ -1,0 +1,1 @@
+project was created to sharpen the css and javascript knowledge 
